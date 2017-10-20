@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-package-tommir",
+  "version": "0.0.1",
+  "description": "Testing creating npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thsraappana/npm-test-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Tommi Raappana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thsraappana/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/thsraappana/npm-test-package#readme"
+}
